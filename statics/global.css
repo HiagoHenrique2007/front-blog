@@ -1,0 +1,17 @@
+:root {
+    --background: #08031D;
+    --circles-bg:rgba(50, 13, 199, 0.64);
+    --text: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text);
+}
+
